@@ -15,7 +15,7 @@ RSS_FEEDS = {'bbc': 'http://feeds.bbci.co.uk/news/rss.xml',
              'indiatoday':'http://indiatoday.intoday.in/rss/article.jsp?sid=150'}
 
 DEFAULTS = {'publication':'bbc',
-            'city': 'London,UK',
+            'city': 'Ontario,Canda',
             'currency_from':'GBP',
             'currency_to':'USD'}
 
